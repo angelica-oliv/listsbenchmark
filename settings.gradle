@@ -1,0 +1,4 @@
+include ':listsbenchmark'
+include ':lists'
+include ':app'
+rootProject.name = "ListsBenchmark"
